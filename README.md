@@ -1,10 +1,6 @@
 # Netflix Recommender System Project
 
-The purpose of this project is to propose sev-
-eral viable models by introducing concepts, an-
-alyzing advantages and disadvantages, evaluat-
-ing performance, and understanding the rec-
-ommendation dynamics.
+The purpose of this project is to propose several viable models by introducing concepts, analyzing advantages and disadvantages, evaluating performance, and understanding the recommendation dynamics.
 
 The project is the final project for NYU DS-GA 1001 Intro to Data Science
 
